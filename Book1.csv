@@ -1,0 +1,33 @@
+﻿id,fuel,state,owner,access,number_of_stations
+1,Biofuel,Ohio,Private,Public,23
+2,Hydrogen,New York,Private,Private,76
+3,Compressed Natural Gas,California,Government,Public,35
+4,Propane,Texas,Private,Public,58
+5,Biodiesel,Florida,Public,Private,48
+6,Biofuel,Ohio,Private,Public,45
+7,Hydrogen,New York,Private,Private,56
+8,Compressed Natural Gas,California,Government,Public,23
+9,Propane,Texas,Private,Public,23
+10,Biodiesel,Florida,Public,Private,
+11,Biofuel,Ohio,Private,Public,56
+12,Hydrogen,New York,Private,Private,
+13,Compressed Natural Gas,California,Government,Public,
+14,Propane,Texas,Private,Public,
+15,Biodiesel,Florida,Public,Private,
+16,Biofuel,Ohio,Private,Public,
+17,Hydrogen,New York,Private,Private,
+18,Compressed Natural Gas,California,Government,Public,
+19,Propane,Texas,Private,Public,
+20,Biodiesel,Florida,Public,Private,
+21,Biofuel,Ohio,Private,Public,
+22,Hydrogen,New York,Private,Private,
+23,Compressed Natural Gas,California,Government,Public,
+24,Propane,Texas,Private,Public,
+25,Biodiesel,Florida,Public,Private,
+26,Biofuel,Ohio,Private,Public,
+27,Hydrogen,New York,Private,Private,
+28,Compressed Natural Gas,California,Government,Public,
+29,Propane,Texas,Private,Public,
+30,Biodiesel,Florida,Public,Private,
+31,Biofuel,Ohio,Private,Public,
+32,Hydrogen,New York,Private,Private,
