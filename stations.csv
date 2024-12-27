@@ -1,4 +1,4 @@
-﻿Number,Fuel,State,Owner,Access,Number of Stations
+﻿id,fuel,state,owner,access,number_of_stations
 1,Biofuel,Ohio,Private,Public,23
 2,Hydrogen,New York,Private,Private,76
 3,Compressed Natural Gas,California,Government,Public,35
